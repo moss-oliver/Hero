@@ -1,0 +1,17 @@
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.exe
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.deps.json
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.runtimeconfig.json
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.runtimeconfig.dev.json
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.dll
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroController.pdb
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroCommon.dll
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\NAudio.dll
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\HeroCommon.pdb
+C:\Users\mosso\source\repos\Hero\HeroController\bin\Debug\netcoreapp2.0\win-x64\NAudio.xml
+C:\Users\mosso\source\repos\Hero\HeroController\obj\Debug\netcoreapp2.0\win-x64\HeroController.csproj.CoreCompileInputs.cache
+C:\Users\mosso\source\repos\Hero\HeroController\obj\Debug\netcoreapp2.0\win-x64\HeroController.AssemblyInfoInputs.cache
+C:\Users\mosso\source\repos\Hero\HeroController\obj\Debug\netcoreapp2.0\win-x64\HeroController.AssemblyInfo.cs
+C:\Users\mosso\source\repos\Hero\HeroController\obj\Debug\netcoreapp2.0\win-x64\HeroController.dll
+C:\Users\mosso\source\repos\Hero\HeroController\obj\Debug\netcoreapp2.0\win-x64\HeroController.pdb

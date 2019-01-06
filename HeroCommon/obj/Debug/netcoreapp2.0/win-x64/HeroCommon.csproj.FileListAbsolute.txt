@@ -1,0 +1,8 @@
+C:\Users\mosso\source\repos\Hero\HeroCommon\bin\Debug\netcoreapp2.0\win-x64\HeroCommon.deps.json
+C:\Users\mosso\source\repos\Hero\HeroCommon\bin\Debug\netcoreapp2.0\win-x64\HeroCommon.dll
+C:\Users\mosso\source\repos\Hero\HeroCommon\bin\Debug\netcoreapp2.0\win-x64\HeroCommon.pdb
+C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\win-x64\HeroCommon.csproj.CoreCompileInputs.cache
+C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\win-x64\HeroCommon.AssemblyInfoInputs.cache
+C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\win-x64\HeroCommon.AssemblyInfo.cs
+C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\win-x64\HeroCommon.dll
+C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\win-x64\HeroCommon.pdb
