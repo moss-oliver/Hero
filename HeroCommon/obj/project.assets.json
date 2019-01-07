@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mosso\\source\\repos\\Hero\\HeroCommon\\HeroCommon.csproj",
+      "projectUniqueName": "C:\\Development\\Hero\\HeroCommon\\HeroCommon.csproj",
       "projectName": "HeroCommon",
-      "projectPath": "C:\\Users\\mosso\\source\\repos\\Hero\\HeroCommon\\HeroCommon.csproj",
+      "projectPath": "C:\\Development\\Hero\\HeroCommon\\HeroCommon.csproj",
       "packagesPath": "C:\\Users\\mosso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mosso\\source\\repos\\Hero\\HeroCommon\\obj\\",
+      "outputPath": "C:\\Development\\Hero\\HeroCommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

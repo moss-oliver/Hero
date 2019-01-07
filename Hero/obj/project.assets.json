@@ -2793,11 +2793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mosso\\source\\repos\\Hero\\Hero\\Hero.csproj",
+      "projectUniqueName": "C:\\Development\\Hero\\Hero\\Hero.csproj",
       "projectName": "Hero",
-      "projectPath": "C:\\Users\\mosso\\source\\repos\\Hero\\Hero\\Hero.csproj",
+      "projectPath": "C:\\Development\\Hero\\Hero\\Hero.csproj",
       "packagesPath": "C:\\Users\\mosso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mosso\\source\\repos\\Hero\\Hero\\obj\\",
+      "outputPath": "C:\\Development\\Hero\\Hero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2816,11 +2816,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\mosso\\source\\repos\\Hero\\HeroCommon\\HeroCommon.csproj": {
-              "projectPath": "C:\\Users\\mosso\\source\\repos\\Hero\\HeroCommon\\HeroCommon.csproj"
+            "C:\\Development\\Hero\\HeroCommon\\HeroCommon.csproj": {
+              "projectPath": "C:\\Development\\Hero\\HeroCommon\\HeroCommon.csproj"
             },
-            "C:\\Users\\mosso\\source\\repos\\Hero\\HeroController\\HeroController.csproj": {
-              "projectPath": "C:\\Users\\mosso\\source\\repos\\Hero\\HeroController\\HeroController.csproj"
+            "C:\\Development\\Hero\\HeroController\\HeroController.csproj": {
+              "projectPath": "C:\\Development\\Hero\\HeroController\\HeroController.csproj"
             }
           }
         }

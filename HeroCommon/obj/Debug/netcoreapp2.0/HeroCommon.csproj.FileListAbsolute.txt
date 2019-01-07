@@ -10,3 +10,15 @@ C:\Users\mosso\source\repos\Hero\HeroCommon\bin\Debug\netcoreapp2.0\NAudio.dll
 C:\Users\mosso\source\repos\Hero\HeroCommon\bin\Debug\netcoreapp2.0\NAudio.xml
 C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.csprojAssemblyReference.cache
 C:\Users\mosso\source\repos\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.csproj.CopyComplete
+C:\Development\Hero\HeroCommon\bin\Debug\netcoreapp2.0\HeroCommon.deps.json
+C:\Development\Hero\HeroCommon\bin\Debug\netcoreapp2.0\HeroCommon.dll
+C:\Development\Hero\HeroCommon\bin\Debug\netcoreapp2.0\HeroCommon.pdb
+C:\Development\Hero\HeroCommon\bin\Debug\netcoreapp2.0\NAudio.dll
+C:\Development\Hero\HeroCommon\bin\Debug\netcoreapp2.0\NAudio.xml
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.csprojAssemblyReference.cache
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.csproj.CoreCompileInputs.cache
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.AssemblyInfoInputs.cache
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.AssemblyInfo.cs
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.csproj.CopyComplete
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.dll
+C:\Development\Hero\HeroCommon\obj\Debug\netcoreapp2.0\HeroCommon.pdb
